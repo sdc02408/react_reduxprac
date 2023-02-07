@@ -3,9 +3,6 @@ readme 수정
 ## Available Scripts
 
 ## 프로젝트 화면
-메인화면
-![image](https://user-images.githubusercontent.com/46953352/217288434-53e68b2f-9bda-4497-b1b7-72689079c932.png)
-In the project directory, you can run:
 
 ### `yarn start`
 
