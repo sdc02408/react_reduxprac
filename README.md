@@ -3,7 +3,7 @@ readme 수정
 ## Available Scripts
 
 ## 프로젝트 화면
-
+![image](https://user-images.githubusercontent.com/46953352/217289336-4021f0dd-0da4-4214-90d3-89083278a1d7.png)
 ### `yarn start`
 
 Runs the app in the development mode.<br />
